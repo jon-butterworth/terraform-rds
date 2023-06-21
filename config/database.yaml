@@ -1,0 +1,38 @@
+dmbo:
+  name: DMBO
+  user: admin
+  identifier: dps-adept-rds-new-dev-sas-dmbo
+  parameters:
+    - name: 
+      value:
+  options:
+    - name:
+      option_settings:
+        name:
+        value:
+
+dmbr:
+  name: DMBR
+  user: admin
+  identifier: dps-adept-rds-new-dev-sas-dmbr
+  parameters:
+    - name: 
+      value: 
+  options:
+    - name:
+      option_settings:
+        name:
+        value:
+
+dmba:
+  name: DMBA
+  user: admin
+  identifier: dps-adept-rds-new-dev-sas-dmba
+  parameters:
+    - name: 
+      value: 
+  options:
+    - name:
+      option_settings:
+        name:
+        value:

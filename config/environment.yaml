@@ -1,0 +1,5 @@
+environment:
+  dev:
+    aws_account: 777984082392
+    vpc_id: vpc-05e862dd0875c0adf
+    

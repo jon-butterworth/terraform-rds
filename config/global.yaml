@@ -1,0 +1,11 @@
+global:
+  db_port: 2484
+  multi_az: false
+  storage_type:
+  allocated_storage:
+  storage_encrypted: true
+  engine: oracle-ee
+  engine_version: 19.0.0.0.ru-2022-07.rur-2022-07.r1
+  instance_class: db.t3.small
+  parameter_group: oracle-ee-19
+  subnet_ids:
